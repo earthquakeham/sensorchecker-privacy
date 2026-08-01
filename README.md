@@ -1,6 +1,6 @@
 # Sensor Checker — 개인정보처리방침
 
-Android 앱 **Sensor Checker**(`com.earthquakeham.datagathering`)의 개인정보처리방침을
+Android 앱 **Sensor Checker**(`com.earthquakeham.sensorchecker`)의 개인정보처리방침을
 공개하기 위한 저장소입니다. 페이지 하나만 들어 있습니다.
 
 공개 주소는 이 저장소의 GitHub Pages 설정에서 확인하세요.
